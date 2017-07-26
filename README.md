@@ -1,4 +1,4 @@
-Fees_Project::
+#Fees_Project:
 
 This project implements the response to challenge.md in Javascript, and runs
 in Node.js.  To execute challenges part 1 and part 2, download this project,
