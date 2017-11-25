@@ -12,7 +12,7 @@ This may include ("npm install express --save").  After than, enter:
 
 - node app.js
 
-This will start the server on the local host.  Then, open a browser and type in:
+This will start the server on the local host.  Then, open a browser and type either:
 
 - http://localhost:3000/orderPriceSummary/[<order_num_1>,<order_num_2>...]
 
